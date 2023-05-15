@@ -1,0 +1,24 @@
+#form1 {
+    backdrop-filter: blur(20px) saturate(168%);
+    background: rgba(255, 255, 255, 0.7);
+    bottom: 0;
+    top: 0;
+    height: 100vh;
+}
+.back {
+    background: url(../assets/2020_MedicalLabSciences_001.jpg) center center / cover no-repeat fixed;
+}
+.T {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #4C0001;
+    padding: 20px;
+}
+.T1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    font-weight: bold;
+}
